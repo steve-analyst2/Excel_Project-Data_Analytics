@@ -77,13 +77,12 @@ From the analysis, I noticed that some roles requiring more skills also had high
 
 This helped me understand how the number and type of skills requested in a job posting can be useful when looking at salary patterns.
 
-    
+   ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
 
-#### 🤔 So What
 
 - This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
 
-## 2️⃣ What’s the salary for data jobs in different regions?
+## 2️⃣ How do salaries differ between different regions?
 
 ### 🧮 Skills: PivotTables & DAX
 
@@ -110,16 +109,13 @@ This helped me understand how the number and type of skills requested in a job p
 
 #### 💡 Insights
 
-- 💼 Job roles like Senior Data Engineer and Data Scientist command higher median salaries both in the US and internationally, showcasing the global demand for high-level data expertise.
+- 💼 The analysis showed differences between salaries in the United States and other regions. Some roles, such as Senior Data Engineer and Data Scientist, had relatively high median salaries.
 - 💰 The salary disparity between US and Non-US roles is particularly notable in high-tech jobs, which might be influenced by the concentration of tech industries in the US.
 
     ![2_Project_Analysis_Chart2.png](/0_Resources/Images/2_Project_Analysis_Chart2.png)
 
-#### **🤔 So What**
 
-- These salary insights are important for planning and salary negotiations, helping professionals and companies align their offers with market standards while considering geographical variations.
-
-## 3️⃣ What are the top skills of data professionals?
+## 3️⃣ Which skills appear most often in data-related jobs?
 
 ### 🔧 Skill: Power Pivot
 
@@ -149,11 +145,9 @@ This helped me understand how the number and type of skills requested in a job p
 
     ![2_Project_Analysis_Chart3.png](/0_Resources/Images/2_Project_Analysis_Chart3.png)
 
-#### 🤔So What
 
-- Understanding prevalent skills in the industry not only helps professionals stay competitive but also guides training and educational programs to focus on the most impactful technologies.
 
-## 4️⃣ What’s the pay of the top 10 skills?
+## 4️⃣ What are the salaries associated with the top 10 skills?
 
 ### 📊 Skill: Advanced Charts (Pivot Chart)
 
@@ -173,12 +167,11 @@ This helped me understand how the number and type of skills requested in a job p
 
     ![2_Project_Analysis_Chart4.png](/0_Resources/Images/2_Project_Analysis_Chart4.png)
 
-### 🤔So What
-
-- This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
 
 ## Conclusion
 
-As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
+This project helped me put the Excel skills I had been learning into practice using a real-world type of dataset.
 
-I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
+I was able to explore salaries, job roles, locations, and skills and then present some of the findings using PivotTables and charts.
+
+This was also useful for me as I continue building my data analytics skills and portfolio.
