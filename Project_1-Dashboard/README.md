@@ -63,7 +63,6 @@ I used Microsoft Excel to prepare, analyze, and visualize the data.
 - Dropdown selections
 - Charts and data visualization
 - Interactive dashboard design
-- Conditional analysis
 
 ## 📊 Dashboard Features
 
