@@ -17,7 +17,7 @@ The project helped me apply the Excel data analysis skills I developed during my
 
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](1_Salary_Dashboard.xlsx).
+My final dashboard is in [1_Salary_Dashboard.xlsx]([1_Salary_Dashboard.xlsx])
 
 ## 🎯 Project Objective
 
