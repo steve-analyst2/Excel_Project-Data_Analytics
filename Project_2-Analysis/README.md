@@ -1,18 +1,20 @@
 
 # Project 2 Analysis
 
-## Introduction
+## About the Project
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+This is one of the projects I completed while learning Excel for data analysis.
+The purpose of the project was to use Excel to explore data about data-related jobs, including job titles, salaries, locations, and the skills requested by employers.
+I used this project to practice working with a larger dataset and applying some of the Excel tools I had learned during my training.
 
-### Questions to Analyze
+### Questions I Wanted to Answer
 
-To understand the data science job market, I asked the following:
+During the analysis, I looked at four main questions:
 
-1. **Do more skills get you better pay?**
-2. **What’s the salary for data jobs in different regions?**
-3. **What are the top skills of data professionals?**
-4. **What’s the pay for the top 10 skills?**
+1. **Does having more skills relate to higher salaries?**
+2. **How do salaries differ between different regions?**
+3. **Which skills appear most often in data-related jobs?**
+4. **What are the salaries associated with the top 10 skills?**
 
 ### Excel Skills Used
 
@@ -26,16 +28,16 @@ The following Excel skills were utilized for analysis:
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023. 
 
-It includes detailed information on:
+The main information I worked with included:
 
 - **👨‍💼 Job titles**
 - **💰 Salaries**
 - **📍 Locations**
 - **🛠️ Skills**
 
-## 1️⃣ Do more skills get you better pay?
+## 1️⃣ Does having more skills relate to higher salaries?
 
 ### 🔍 Skill: Power Query (ETL)
 
@@ -71,10 +73,11 @@ It includes detailed information on:
 
 #### 💡 Insights
 
-- 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
-- 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
+From the analysis, I noticed that some roles requiring more skills also had higher median salaries. Senior Data Engineer and Data Scientist roles were among the roles with higher salaries.
 
-    ![2_Project_Analysis_Chart1.png](/0_Resources/Images/2_Project_Analysis_Chart1.png)
+This helped me understand how the number and type of skills requested in a job posting can be useful when looking at salary patterns.
+
+    
 
 #### 🤔 So What
 
