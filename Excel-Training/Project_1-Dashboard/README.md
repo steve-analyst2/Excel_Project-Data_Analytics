@@ -70,7 +70,7 @@ I used Microsoft Excel to prepare, analyze, and visualize the data.
 
 The dashboard includes interactive selections for:
 
-<img src="Excel-Training/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="../0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 - **Job Title**
 - **Country**
@@ -80,7 +80,7 @@ These filters allow users to change the criteria and explore different salary re
 
 ### 2. Median Salary Calculator
 
-![1_Salary_Dashboard_Screenshot1.png](Excel-Training/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![1_Salary_Dashboard_Screenshot1.png](../0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
 
 The dashboard calculates the **median salary** based on the selected job title, country, and job type.
 
@@ -88,7 +88,7 @@ This provides a more focused way of exploring salary information instead of look
 
 ### 3. Data Visualization
 
-<img src="Excel-Training/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="../0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 Charts are used to present salary information visually and make comparisons between different roles easier to understand.
 
